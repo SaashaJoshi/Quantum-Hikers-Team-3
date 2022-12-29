@@ -1,0 +1,25 @@
+{
+    "train_accuracy": 0.70625,
+    "test_accuracy": 0.55,
+    "param": {
+        "anti_aliasing": false,
+        "seed": null,
+        "feature_dim": 4,
+        "resize_image_size": [
+            2,
+            2
+        ],
+        "anti_aliasing_sigma": null,
+        "normalize_min": 0,
+        "normalize_max": 1,
+        "feature_type": "ZZ",
+        "feature_repeat": 2,
+        "qasm_shots": 1024,
+        "use_ibmq": false,
+        "class_size": 100,
+        "labels": [
+            "alpha",
+            "beta"
+        ]
+    }
+}
